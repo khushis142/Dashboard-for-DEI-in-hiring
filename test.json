@@ -1,0 +1,41 @@
+[
+    {
+        "CANDIDATE_FNAME": "Jonny",
+        "CANDIDATE_LNAME": "Doe",
+        "GENDER": "M",
+        "DEPARTMENT_ID": 1,
+        "APPLIED_POSITION": "ANALYST",
+        "APPLIED_THROUGH": "VENDOR",
+        "STATUS": "STAGE 2",
+        "EXPERIENCE_YEARS": 5,
+        "VENDOR_ID": 3,
+        "CAMPUS_ID": null,
+        "APPLICATION_DATE": "2023-06-25"
+    },
+    {
+        "CANDIDATE_FNAME": "Ella",
+        "CANDIDATE_LNAME": "Smith",
+        "GENDER": "F",
+        "DEPARTMENT_ID": 4,
+        "APPLIED_POSITION": "VP",
+        "APPLIED_THROUGH": "CAMPUS",
+        "STATUS": "HIRED",
+        "EXPERIENCE_YEARS": 10,
+        "VENDOR_ID": null,
+        "CAMPUS_ID": 1,
+        "APPLICATION_DATE": "2023-06-28"
+    },
+    {
+        "CANDIDATE_FNAME": "Miller",
+        "CANDIDATE_LNAME": "Johnson",
+        "GENDER": "M",
+        "DEPARTMENT_ID": 2,
+        "APPLIED_POSITION": "ED",
+        "APPLIED_THROUGH": "REFERENCE",
+        "STATUS": "STAGE 1",
+        "EXPERIENCE_YEARS": 3,
+        "VENDOR_ID": null,
+        "CAMPUS_ID": null,
+        "APPLICATION_DATE": "2023-06-30"
+    }  
+]
