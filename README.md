@@ -14,5 +14,8 @@ BuildTogether: A dashboard to insure that managers stay accountable for reach co
 
 Tools and technologies: : Python, Streamlit, Scikit-learn, MySQL
 
+Note: Use database_final.txt to create database in mysql.
+Use ws.py for webscraping. Selenium and chromedriver_win32 required.
+
 
 
